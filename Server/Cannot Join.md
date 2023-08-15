@@ -3,6 +3,6 @@
 
 | Error | 
 | :-: |
-|<a href="#1">Failed to verify username!</a>|
+|[![Failed to verify username!](errors/1.png)](#1)|
 <h3 id="#1">Failed to verify username!</h3>
 
